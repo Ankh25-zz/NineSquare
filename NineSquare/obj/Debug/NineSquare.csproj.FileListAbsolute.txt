@@ -1,0 +1,9 @@
+D:\Users\admin\Documents\Visual Studio 2015\Projects\NineSquare\NineSquare\bin\Debug\NineSquare.exe.config
+D:\Users\admin\Documents\Visual Studio 2015\Projects\NineSquare\NineSquare\obj\Debug\NineSquare.csprojResolveAssemblyReference.cache
+D:\Users\admin\Documents\Visual Studio 2015\Projects\NineSquare\NineSquare\obj\Debug\NineSquare.Properties.Resources.resources
+D:\Users\admin\Documents\Visual Studio 2015\Projects\NineSquare\NineSquare\obj\Debug\NineSquare.csproj.GenerateResource.Cache
+D:\Users\admin\Documents\Visual Studio 2015\Projects\NineSquare\NineSquare\bin\Debug\NineSquare.exe
+D:\Users\admin\Documents\Visual Studio 2015\Projects\NineSquare\NineSquare\bin\Debug\NineSquare.pdb
+D:\Users\admin\Documents\Visual Studio 2015\Projects\NineSquare\NineSquare\obj\Debug\NineSquare.exe
+D:\Users\admin\Documents\Visual Studio 2015\Projects\NineSquare\NineSquare\obj\Debug\NineSquare.pdb
+D:\Users\admin\Documents\Visual Studio 2015\Projects\NineSquare\NineSquare\obj\Debug\NineSquare.MainForm.resources
